@@ -1,4 +1,16 @@
-# 贝壳前端组内分享-vuex
+# 贝壳前端组内分享
+
+## 分享要点
+
+```
+vuex相关用法
+```
+
+## 技术栈
+
+```
+vue-cli webpack vuex
+```
 
 ## Build Setup
 
