@@ -9,7 +9,7 @@
 ## 技术栈
 
 ```
-# vue-cli  参考地址: [https://www.npmjs.com/package/vue-cli]
+# vue-cli  参考地址: [https://www.npmjs.com/package/vue-cli](https://www.npmjs.com/package/vue-cli)
 # vuex  参考地址: [https://vuex.vuejs.org/zh/installation.html]
 ```
 
