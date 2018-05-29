@@ -9,20 +9,19 @@ vuex相关用法
 ## 技术栈
 
 ```
-vue-cli webpack vuex
+vue-cli  参考地址: https://www.npmjs.com/package/vue-cli
+vuex  参考地址: https://vuex.vuejs.org/zh/installation.html
 ```
 
 ## 项目构建步骤
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动本地服务 localhost:8080
 npm run dev
 
-# build for production with minification
+# 构建项目编译产出
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
