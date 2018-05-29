@@ -1,6 +1,4 @@
-# team-share
-
-> 贝壳前端组内分享-vuex
+# 贝壳前端组内分享-vuex
 
 ## Build Setup
 
