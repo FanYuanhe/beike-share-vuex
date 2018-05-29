@@ -12,7 +12,7 @@ vuex相关用法
 vue-cli webpack vuex
 ```
 
-## Build Setup
+## 项目构建步骤
 
 ``` bash
 # install dependencies
