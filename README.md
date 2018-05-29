@@ -6,8 +6,8 @@
 
 ## 技术栈
 
-* vue-cli  参考地址: [https://www.npmjs.com/package/vue-cli]
-* vuex  参考地址: [https://vuex.vuejs.org/zh/installation.html]
+* vue-cli   参考地址:  https://www.npmjs.com/package/vue-cli
+* vuex   参考地址:  https://vuex.vuejs.org/zh/installation.html
 
 ## 项目构建步骤
 
